@@ -1,0 +1,3 @@
+[submodule "learngit-2"]
+	path = learngit-2
+	url = ../learngit-2
